@@ -1,3 +1,3 @@
 # AtikApp
- A better math class for C#
+ A school project
 "# AtikApp" 
